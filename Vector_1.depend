@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1722596414 source:c:\work\vector_1\main.cpp
+	<iostream>
+	<vector>
+
+1732735144 source:f:\domashka\vector_1\main.cpp
+	"Header.h"
+
+1732735144 source:f:\domashka\vector_1\functions.cpp
+	"Header.h"
+
+1732735144 f:\domashka\vector_1\header.h
+	<iostream>
+	<vector>
+
